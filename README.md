@@ -16,6 +16,7 @@ A sleek and responsive web application that fetches and displays GitHub user det
 
 ## 🛠️ Tech Stack
 
+
 [![Tech Stack](https://skillicons.dev/icons?i=js,html,tailwind)](https://skillicons.dev)
 
 - **HTML5**: Structure for the web application.
@@ -24,11 +25,3 @@ A sleek and responsive web application that fetches and displays GitHub user det
 - **Inter Font**: Clean and professional typography via Google Fonts.
 
 
-## ⚙️ Installation
-
-Follow these steps to run the project locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/github-profile-viewer.git
-   cd github-profile-viewer
